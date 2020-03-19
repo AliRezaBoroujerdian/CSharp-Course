@@ -5,9 +5,58 @@ VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session03 - How to download", "Session03 - How to download", "{B816F491-F680-4BF3-8132-F3084915AA2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp01", "ConsoleApp01\ConsoleApp01.csproj", "{92AB1A4E-E86B-4FF0-8E3E-28C8D567949B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session04 - Variable", "Session04 - Variable", "{0E11358B-C3ED-49B6-B7CF-D1F313C1F110}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session05 - Operator", "Session05 - Operator", "{FE3CAE11-72AD-4E16-B3C7-EDA8EF3DAF12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session06 - Boolean logic", "Session06 - Boolean logic", "{3E5A2B1E-D0EF-4D54-BAEC-32BEA2B41EB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session07 - If statement", "Session07 - If statement", "{5625DA6A-60B0-4F8D-B191-722B2D60E857}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session08 - Looping", "Session08 - Looping", "{E0AA5ECF-104B-4044-801A-D951D7817E53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session09 - Type conversion", "Session09 - Type conversion", "{5DCC4A72-5126-4939-895E-07BD99B73C9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session10 - Complex variable type", "Session10 - Complex variable type", "{E47178E9-E005-43CB-A422-8F02F150AF1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session11 - Char and String", "Session11 - Char and String", "{C3941F0A-F1F5-41DE-88E4-28BC70E6C43E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session12 - Function", "Session12 - Function", "{4F9A7F76-B7B5-43C7-A71F-6216E4B55743}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session16 - Reference and Value types", "Session16 - Reference and Value types", "{88BA47BA-C8E5-4D68-997B-5DC744E8722A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session15 - ref and out", "Session15 - ref and out", "{282436B4-0540-46DA-B605-CF11B5A5ECA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session13 - Function overloading", "Session13 - Function overloading", "{21C1E80C-3BA6-4D52-A4A1-D43A5A178B50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session17 - try catch", "Session17 - try catch", "{C565B3B6-CC19-44DB-A891-AD4DFC77947B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session14 - Recursive function", "Session14 - Recursive function", "{C4A2634A-A524-4A43-AAE4-BFD656C1BB47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session18 - OOP (Object Oriented Programming)", "Session18 - OOP (Object Oriented Programming)", "{07A234F9-6DC7-43FE-8B01-C000A19C6249}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session19 - Class", "Session19 - Class", "{94CAC75B-6021-472D-91D4-1287F1DED092}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session20 - Constructor", "Session20 - Constructor", "{76080DA7-366C-453C-A25B-B6F40A792FEE}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92AB1A4E-E86B-4FF0-8E3E-28C8D567949B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AB1A4E-E86B-4FF0-8E3E-28C8D567949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AB1A4E-E86B-4FF0-8E3E-28C8D567949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AB1A4E-E86B-4FF0-8E3E-28C8D567949B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92AB1A4E-E86B-4FF0-8E3E-28C8D567949B} = {B816F491-F680-4BF3-8132-F3084915AA2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {655BBE87-6047-4110-B33E-DC39977C14B8}
